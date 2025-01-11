@@ -27,3 +27,5 @@ else:
     print("deu certo")
 finally:
     print("independente do que acontecer sempre vou aparecer, esse é o finally")
+
+#
